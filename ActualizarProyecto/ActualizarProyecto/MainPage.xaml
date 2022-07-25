@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ActualizarProyecto.MainPage"
+             Title="Main">
+
+    <StackLayout>
+        <Button x:Name="btnupdate" Text="Actualizar" Margin="50,250,50,0"  BackgroundColor="#2AC9F0" TextColor="Black" CornerRadius="15" Clicked="Updt_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

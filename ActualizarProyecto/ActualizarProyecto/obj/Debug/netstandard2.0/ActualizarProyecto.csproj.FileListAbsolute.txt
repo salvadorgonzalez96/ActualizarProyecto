@@ -1,0 +1,16 @@
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\bin\Debug\netstandard2.0\ActualizarProyecto.deps.json
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\bin\Debug\netstandard2.0\ActualizarProyecto.dll
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\bin\Debug\netstandard2.0\ActualizarProyecto.pdb
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\ActualizarProyecto.csproj.AssemblyReference.cache
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\ActualizarProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\ActualizarProyecto.AssemblyInfoInputs.cache
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\ActualizarProyecto.AssemblyInfo.cs
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\ActualizarProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\ActualizarProyecto.dll
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\ref\ActualizarProyecto.dll
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\ActualizarProyecto.pdb
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\Pantallas\UpdateData.xaml.g.cs
+C:\Users\Salvador-Lenovo\source\repos\ActualizarProyecto\ActualizarProyecto\ActualizarProyecto\obj\Debug\netstandard2.0\refint\ActualizarProyecto.dll

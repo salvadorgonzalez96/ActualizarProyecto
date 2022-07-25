@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ActualizarProyecto.Pantallas.UpdateData"
+             Title="Actualizacion de Datos">
+
+    <StackLayout BackgroundColor="#68F2F7">
+        
+        <Label Text="ACTUALIZACION DE DATOS" FontSize="Large" HorizontalOptions="Center"/>
+        <Entry x:Name="txtid" Text="{Binding id}" IsVisible="false"/>
+
+        <Image x:Name="imgfoto" BackgroundColor="Black" HeightRequest="200" WidthRequest="100" Aspect="AspectFit" Source="{Binding imagen}" HorizontalOptions="Center">
+
+        </Image>
+        
+        <Entry x:Name="txtnombre" Text="{Binding nombre}" Keyboard="Text" Placeholder="Nombre" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" WidthRequest="300"/>
+        <Entry x:Name="txtapellido" Text="{Binding apellido}" Keyboard="Text" Placeholder="Apellido" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" WidthRequest="300"/>
+        <Entry x:Name="txtusuario" Text="{Binding usuario}" Placeholder="Usuario" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" WidthRequest="300"/>
+        <Entry x:Name="txtgenero" Text="{Binding genero}" Placeholder="Genero" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" WidthRequest="300"/>
+        <Entry x:Name="txtemail" Text="{Binding email}" Placeholder="Email" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" WidthRequest="300"/>
+        <Entry x:Name="txtcontra" Text="{Binding password}" IsPassword="true" Placeholder="Contraseña" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" WidthRequest="300"/>
+        <Entry x:Name="txtciudad" Text="{Binding ciudad}" Keyboard="Text" Placeholder="Ciudad" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" WidthRequest="300"/>
+        <Entry x:Name="txttelefono" Text="{Binding telefono}" Keyboard="Telephone" Placeholder="Telefono" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" WidthRequest="300"/>
+
+        <Button Text="Actualizar" HorizontalOptions="CenterAndExpand" WidthRequest="300"/>
+        
+    </StackLayout>
+</ContentPage>
